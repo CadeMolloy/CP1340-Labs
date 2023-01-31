@@ -21,7 +21,7 @@ Lab 4: Inheritance and Polymorphism
 ![image](https://user-images.githubusercontent.com/123581875/215861207-059622fe-7864-4b96-9e2c-4e6bc272c13d.png)
 
 
-Lab 5: GUI and Swing
+Lab 5: GUI and Swing        
 ![image](https://user-images.githubusercontent.com/123581875/215861307-59d45002-eae6-45d5-b82a-f13854b2fc27.png)
 ![image](https://user-images.githubusercontent.com/123581875/215861342-31db5ba4-a0e3-46b3-9e86-8c2f6f07302a.png)
 
